@@ -5,3 +5,6 @@ Cost-Conscious Gen-AI Microsystems. We offer four cardinal services to help you 
 - **E**quator: Empowering AI education 
 - **S**ojourn: Sanboxed AI Agents
 - **W**averunner: Microservers
+
+## In partnership with OrthoMentor
+![OM Image](OM.jpg)

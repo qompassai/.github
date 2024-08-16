@@ -1,7 +1,7 @@
 # Qompass
 ## Helping you navigate the Deep Waters of Deep Tech.
 
-- Nautilus: NIST Security microservices
+- Nautilus: NIST-compliant Security microservices
 - Equator: Empowering AI education
 - Sojourn: Sanbox AI Studios
 - Waverunner: Meshed AI Microservers

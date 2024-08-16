@@ -5,3 +5,6 @@
 - Equator: Empowering AI education
 - Sojourn: Sanbox AI Studios
 - Waverunner: Meshed AI Microservers
+
+## In partnership with OrthoMentor
+![OM Image](OM.jpeg)

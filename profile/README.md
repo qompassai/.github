@@ -1,5 +1,5 @@
 # Qompass
-## Cost-Conscious Gen-AI Microservices helping you navigate the Deep Waters of Deep Tech.
+## Helping you navigate the Deep Waters of Deep Tech.
 
 - Nautilus: NIST Security microservices
 - Equator: Empowering AI education

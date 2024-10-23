@@ -1,5 +1,5 @@
 # Qompass
-## Quality AI Solution Provider helping you navigate the Deep Waters of Deep Tech.
+## Quality AI Adoption Solutions helping you navigate the Deep Waters of Deep Tech.
 
 - Nautilus: Quality AI Security Solutions
 - Equator: Quality AI Education Solutions

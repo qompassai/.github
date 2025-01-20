@@ -6,5 +6,5 @@
 - Sojourn: Quality AI Hybrid deployment Solutions
 - Waverunner: Quality AI Server solutions
 
-## In partnership with OrthoMentor
+## In entrepeneural partnership with OrthoMentor LLC
 ![OM Image](OM.jpeg)

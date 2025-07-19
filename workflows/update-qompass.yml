@@ -31,8 +31,8 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --global user.name "Qompass Bot"
-          git config --global user.email "bot@qompass.ai"
+          git config --global user.name "phaedrusflow"
+          git config --global user.email "map@qompass.ai"
           git add README.md
           git commit -m "chore: update repo list [skip ci]" || echo "No changes to commit"
           git push

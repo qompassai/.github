@@ -1,0 +1,141 @@
+- [.github](https://github.com/qompassai/.github) - Cost-Conscious Gen-AI Microsystems
+- [Azimuth](https://github.com/qompassai/Azimuth) - Your helpful AI navigator
+- [Diver](https://github.com/qompassai/Diver) - Diver: Your blazingly Fast Everything Editor
+- [DoNoHarm](https://github.com/qompassai/DoNoHarm) - First, Do No Harm: On Making AI Safe, Secure, and Trustworthy
+- [Equator](https://github.com/qompassai/Equator) - Quality AI Education Solutions
+- [Git](https://github.com/qompassai/Git) - Equator Git: Educational Content on Git
+- [Hyprland](https://github.com/qompassai/Hyprland) - Qompass AI Hyprland Setup
+- [KO](https://github.com/qompassai/KO) - Kyber Odyssey: Charting a course for secure innovation in a post-Crowdstrike world
+- [Lua](https://github.com/qompassai/Lua) - Equator Lua: Educational Content on the Lua Programming Language
+- [MGM](https://github.com/qompassai/MGM) - Macy Grant for MedEdAI
+- [Mojo](https://github.com/qompassai/Mojo) - Equator Mojo: Educational Content on the Mojo Programming Language
+- [NUR](https://github.com/qompassai/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
+- [Nautilus](https://github.com/qompassai/Nautilus) - Quality NIST-compliant AI Security solutions
+- [Nemotron4](https://github.com/qompassai/Nemotron4) - Downloading huggingface models through the command line interface (CLI). Because energy conservation and efficiency matter.
+- [Odyssey](https://github.com/qompassai/Odyssey) - A Research Journey
+- [PathFinders](https://github.com/qompassai/PathFinders) - Qompass Intern program
+- [Python](https://github.com/qompassai/Python) - Equator Education with Python
+- [Qompass-Template](https://github.com/qompassai/Qompass-Template) - Qompass GH Template
+- [R2-D2](https://github.com/qompassai/R2-D2) - Rip-Ready Deep-Diver
+- [Rust](https://github.com/qompassai/Rust) - Educational Content on the Rust Programming Language
+- [Shell](https://github.com/qompassai/Shell) - Educational Content on all things Shell
+- [Sojourn](https://github.com/qompassai/Sojourn) - Quality AI Deployment Solutions
+- [TKO](https://github.com/qompassai/TKO) - Transforming Knowledge Ontology: The Model Context Protocol
+- [Tutoring](https://github.com/qompassai/Tutoring) - Tutoring
+- [Vulkan](https://github.com/qompassai/Vulkan) - Qompass AI Vulkan setup
+- [WaveRunner](https://github.com/qompassai/WaveRunner) - Quality AI Server Solutions
+- [Zig](https://github.com/qompassai/Zig) - Equator Zig: Educational Content on the Zig Programming Language
+- [adns](https://github.com/qompassai/adns) - adns
+- [angle](https://github.com/qompassai/angle) - Qompass AI Angle
+- [ansible](https://github.com/qompassai/ansible) - Qompass AI Ansible
+- [apple](https://github.com/qompassai/apple) - Apple: The First Bicycle for the Mind
+- [arch](https://github.com/qompassai/arch) - 
+- [astro](https://github.com/qompassai/astro) - Astro: When SEO and overhead matter
+- [azure](https://github.com/qompassai/azure) - 
+- [beacon](https://github.com/qompassai/beacon) - Beacon: Quality e-mail solution
+- [blaze-ts.nvim](https://github.com/qompassai/blaze-ts.nvim) - A 🔥 Treesitter
+- [blaze.nvim](https://github.com/qompassai/blaze.nvim) - 🔥 for Neovim
+- [bunker](https://github.com/qompassai/bunker) - The Secure Nix Cache Server
+- [c](https://github.com/qompassai/c) - Qompass AI on C
+- [c-](https://github.com/qompassai/c-) - Qompass AI on c++
+- [containers](https://github.com/qompassai/containers) - Qompass AI on Containers
+- [cpp](https://github.com/qompassai/cpp) - Qompass AI on C++
+- [css](https://github.com/qompassai/css) - Qompass AI on CSS
+- [cuda](https://github.com/qompassai/cuda) - Qompass AI on CUDA
+- [current](https://github.com/qompassai/current) - Qompass AI Current: Your self-hosted AI runner
+- [debian](https://github.com/qompassai/debian) - 
+- [demo-repository](https://github.com/qompassai/demo-repository) - A code repository designed to show the best GitHub has to offer.
+- [deno](https://github.com/qompassai/deno) - Qompass AI on the Deno runtime
+- [docs](https://github.com/qompassai/docs) - Qompass AI Documentation
+- [dotfiles](https://github.com/qompassai/dotfiles) - 
+- [dotnet](https://github.com/qompassai/dotnet) - Qompass AI DotNET: For microsoft-minded development
+- [fedora](https://github.com/qompassai/fedora) - Qompass AI On Fedora
+- [ghost](https://github.com/qompassai/ghost) - Qompass AI Ghost Mail Server
+- [glass](https://github.com/qompassai/glass) - Qompass AI Glass: Your secure remote portal
+- [gnupg](https://github.com/qompassai/gnupg) - Qompass AI on GnuPG/OpenPGP
+- [go](https://github.com/qompassai/go) - Qompass AI go-lang
+- [gtemplate](https://github.com/qompassai/gtemplate) - Qompass AI Go-lang template
+- [gtk](https://github.com/qompassai/gtk) - Qompass AI GTK
+- [harbor](https://github.com/qompassai/harbor) - Harbor
+- [haskell](https://github.com/qompassai/haskell) - Qompas AI on Haskell: The Most 'WhitePaper' language
+- [html](https://github.com/qompassai/html) - Qompass AI HTML
+- [java](https://github.com/qompassai/java) - Qompass AI on Java
+- [js](https://github.com/qompassai/js) - 
+- [k8s](https://github.com/qompassai/k8s) - Qompass AI on K8s
+- [latex](https://github.com/qompassai/latex) - 
+- [license](https://github.com/qompassai/license) - Qompass AI License
+- [linux](https://github.com/qompassai/linux) - 
+- [mariadb](https://github.com/qompassai/mariadb) - Qompass AI on MariaDB
+- [markdown](https://github.com/qompassai/markdown) - Qompass AI markdown template
+- [materialui](https://github.com/qompassai/materialui) - Qompass AI on MaterialUI: When your React components need material design
+- [maven](https://github.com/qompassai/maven) - Maven: For Lazy Java
+- [mesa](https://github.com/qompassai/mesa) - 
+- [mojo-template](https://github.com/qompassai/mojo-template) - Qompass AI 🔥 Template
+- [mtemplate](https://github.com/qompassai/mtemplate) - Qompass AI 🔥 Template
+- [mysql](https://github.com/qompassai/mysql) - Qompass AI MySQL
+- [neomutt](https://github.com/qompassai/neomutt) - Neomutt: Because self-hosted email in neovim is dope
+- [network](https://github.com/qompassai/network) - Qompass AI Network Tooling
+- [nextjs](https://github.com/qompassai/nextjs) - Qompass AI on Next.JS: For SEO optimized server-side development
+- [nginx](https://github.com/qompassai/nginx) - Qompass AI on NGINX
+- [nix](https://github.com/qompassai/nix) - Qompass AI on Nix
+- [nur-packages](https://github.com/qompassai/nur-packages) - Qompass AI Nix User Respository (NUR) Packages
+- [nuxtjs](https://github.com/qompassai/nuxtjs) - For "vue"tiful JS
+- [obs](https://github.com/qompassai/obs) - Qompass AI on obs
+- [opensuse](https://github.com/qompassai/opensuse) - Qompass AI on OpenSUSE
+- [pam](https://github.com/qompassai/pam) - 
+- [pipewire](https://github.com/qompassai/pipewire) - Qompass AI on Pipewire
+- [psql](https://github.com/qompassai/psql) - Qompass AI psql
+- [pub_template](https://github.com/qompassai/pub_template) - Qompass AI publication template
+- [qai](https://github.com/qompassai/qai) - site
+- [qgo](https://github.com/qompassai/qgo) - Qompass AI Go Template
+- [qjp](https://github.com/qompassai/qjp) - NixOS module for NVIDIA Jetson devices
+- [qluv](https://github.com/qompassai/qluv) - Qompass Lua Version Manager
+- [qmail](https://github.com/qompassai/qmail) - Qompass AI email setup
+- [qompass](https://github.com/qompassai/qompass) - 
+- [qompass-hold](https://github.com/qompassai/qompass-hold) - Qompass Secret-Service
+- [qompass.ai](https://github.com/qompassai/qompass.ai) - qompass.ai
+- [qompassai.github.io](https://github.com/qompassai/qompassai.github.io) - 
+- [qpg](https://github.com/qompassai/qpg) - Qompass AI Privacy Guard
+- [qpy](https://github.com/qompassai/qpy) - 
+- [qssh](https://github.com/qompassai/qssh) - Qompass AI SSH setup
+- [qssl](https://github.com/qompassai/qssl) - Qompass AI SSL Solution
+- [qtemplate](https://github.com/qompassai/qtemplate) - Qompass AI repo template
+- [qudaz](https://github.com/qompassai/qudaz) - Qompass AI Cuda library for Zig
+- [r4r](https://github.com/qompassai/r4r) - The Responsible Open Science Engine | An RJOS Poster
+- [radar](https://github.com/qompassai/radar) - Qompass AI Risk Analysis Diagnostic Assessment Resolver aka "R.A.D.A.R"
+- [react](https://github.com/qompassai/react) - Qompass AI on React: When state management and components matter for JS
+- [redteam](https://github.com/qompassai/redteam) - Qompass AI on RedTeaming
+- [rose](https://github.com/qompassai/rose) - 
+- [rose-archive](https://github.com/qompassai/rose-archive) - 
+- [rose.nvim](https://github.com/qompassai/rose.nvim) - 
+- [rose2](https://github.com/qompassai/rose2) - 
+- [roseai](https://github.com/qompassai/roseai) - roseai
+- [roseui](https://github.com/qompassai/roseui) - Rose UI
+- [rstemplate](https://github.com/qompassai/rstemplate) - Qompass AI Rust Template
+- [rtemplate](https://github.com/qompassai/rtemplate) - Qompass AI Rust template
+- [scala](https://github.com/qompassai/scala) - Qompass AI on Scala
+- [sherpadoc](https://github.com/qompassai/sherpadoc) - sherpadoc
+- [sherpats](https://github.com/qompassai/sherpats) - sherpats
+- [smolrose.nvim](https://github.com/qompassai/smolrose.nvim) - Lightweight AI tool
+- [sqlite](https://github.com/qompassai/sqlite) - Qompass AI SQLite setup
+- [svelte](https://github.com/qompassai/svelte) - 
+- [tailwind](https://github.com/qompassai/tailwind) - 
+- [tauri](https://github.com/qompassai/tauri) - Qompass AI on Tauri: For cross-platform safety by design
+- [templates](https://github.com/qompassai/templates) - Qompass AI Templates
+- [terraform](https://github.com/qompassai/terraform) - Qompass AI Terraform Setup
+- [threejs](https://github.com/qompassai/threejs) - Qompass AI on the three.js framework
+- [tor](https://github.com/qompassai/tor) - Qompass AI Tor Setup
+- [tuxtype](https://github.com/qompassai/tuxtype) - Qompass AI on TuxType
+- [typescript](https://github.com/qompassai/typescript) - Qompass AI TypeScript template
+- [ubuntu](https://github.com/qompassai/ubuntu) - Qompass AI Debian
+- [unreal](https://github.com/qompassai/unreal) - Qompass AI Unreal
+- [valkey](https://github.com/qompassai/valkey) - 
+- [vite](https://github.com/qompassai/vite) - 
+- [volta](https://github.com/qompassai/volta) - Quality Reverse-Proxy Server Solution
+- [vongola](https://github.com/qompassai/vongola) - A securely performnant reverse-proxy server for your deep tech needs
+- [vue](https://github.com/qompassai/vue) - Qompass AI Vue
+- [wasm](https://github.com/qompassai/wasm) - 
+- [wayland](https://github.com/qompassai/wayland) - Qompass AI on The Wayland protocol: Safe, Secure, and Trusthworthy window system protocol
+- [wp-bank](https://github.com/qompassai/wp-bank) - Qompass AI Wallpaper Bank
+- [yaml](https://github.com/qompassai/yaml) - Qompass AI on YAML
+- [ztemplate](https://github.com/qompassai/ztemplate) - Qompass AI Zig Template

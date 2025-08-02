@@ -1,10 +1,12 @@
-This is LuaHBTeX, Version 1.22.0 (TeX Live 2026/dev/Arch Linux)  (format=lualatex 2025.6.17)  1 AUG 2025 21:06
+This is LuaHBTeX, Version 1.22.0 (TeX Live 2026/dev/Arch Linux)  (format=lualatex 2025.6.17)  2 AUG 2025 09:42
  restricted system commands enabled.
-**
+**$\sigma$
 
 ! Emergency stop.
-<*> 
-    
+<to be read again> 
+                   \sigma 
+<*> $\sigma
+           $
 End of file on the terminal!
 
 
@@ -16,5 +18,5 @@ Here is how much of LuaTeX's memory you used:
    avail lists: 2:12,3:3,4:1,5:1
  23133 multiletter control sequences out of 65536+600000
  14 fonts using 591679 bytes
- 0i,0n,0p,4b,6s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 1i,0n,0p,9b,6s stack positions out of 10000i,1000n,20000p,200000b,200000s
 !  ==> Fatal error occurred, no output PDF file produced!

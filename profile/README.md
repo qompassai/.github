@@ -12,44 +12,82 @@
   </summary>
   <div style="background: #f8f9fa; padding: 15px; border-radius: 5px; margin-top: 10px; font-family: monospace;">
 
-- **N**orth: NIST-compliant Security Solutions 
-  - [Qompass-Hold](https://github.com/qompassai/qompass-hold)
-  - [Qssl](https://github.com/qompassai/qssl)
-  - [Radar](https://github.com/qompassai/radar)
-  - [Redteam](https://github.com/qompassai/redteam)
-  - [Tor](https://github.com/qompassai/tor)
-  - [Vongola](https://github.com/qompassai/vongola)
+<details>
+  <summary style="font-size: 1.4em; font-weight: bold; padding: 15px; background: #667eea; color: white; border-radius: 10px; cursor: pointer; margin: 10px 0;">
+    <strong>🧭⬆️ <b>N</b>orth:</strong> NIST-compliant Security Solutions
+  </summary>
+  <div style="background: #f8f9fa; padding: 15px; border-radius: 5px; margin-top: 10px; font-family: monospace;">
 
-- **E**ast: Empowering AI education 
-  - [blaze-ts.nvim](https://github.com/qompassai/blaze-ts.nvim)
-  - [blaze.nvim](https://github.com/qompassai/blaze.nvim)
-  - [Diver](https://github.com/qompassai/Diver)
-  - [PathFinders](https://github.com/qompassai/PathFinders)
-  - [Qluv](https://github.com/qompassai/qluv)
-  - [Rose.nvim](https://github.com/qompassai/rose.nvim)
-  - [Tuxtype](https://github.com/qompassai/tuxtype)
-  - [Unreal](https://github.com/qompassai/unreal)
+ [Qompass-Hold](https://github.com/qompassai/qompass-hold)
+ [Qssl](https://github.com/qompassai/qssl)
+ [Radar](https://github.com/qompassai/radar)
+ [Redteam](https://github.com/qompassai/redteam)
+ [Tor](https://github.com/qompassai/tor)
+ [Vongola](https://github.com/qompassai/vongola)
 
-- **S**outh: AI Deployment solutions
-  - [Azimuth](https://github.com/qompassai/Azimuth)
-  - [Current](https://github.com/qompassai/current)
-  - [Dotfiles](https://github.com/qompassai/dotfiles)
-  - [Qonfig](https://github.com/qompassai/qonfig)
-  - [Qudaz](https://github.com/qompassai/qudaz)
-  - [Qxet](https://github.com/qompassai/qxet)
-  - [Rose](https://github.com/qompassai/rose)
-- **W**est: AI Server Solutions
-  - [beacon](https://github.com/qompassai/beacon)
-  - [bunker](https://github.com/qompassai/bunker)
-  - [debian](https://github.com/qompassai/debian)
-  - [network](https://github.com/qompassai/network)
-  - [NUR](https://github.com/qompassai/NUR)
-  - [qjp](https://github.com/qompassai/qjp)
+</details>
 
-* [Research](https://github.com/qompassai/Odyssey)
-  - [KO](https://github.com/qompassai/KO)
-  - [DoNoHarm](https://github.com/qompassai/DoNoHarm)
-  - [r4r](https://github.com/qompassai/r4r)
+<details>
+  <summary style="font-size: 1.4em; font-weight: bold; padding: 15px; background: #667eea; color: white; border-radius: 10px; cursor: pointer; margin: 10px 0;">
+    <strong>🧭➡️ <b>E</b>ast:</strong> Empowering Education Solutions
+  </summary>
+  <div style="background: #f8f9fa; padding: 15px; border-radius: 5px; margin-top: 10px; font-family: monospace;">
+
+ [blaze-ts.nvim](https://github.com/qompassai/blaze-ts.nvim)
+ [blaze.nvim](https://github.com/qompassai/blaze.nvim)
+ [Diver](https://github.com/qompassai/Diver)
+ [PathFinders](https://github.com/qompassai/PathFinders)
+ [Qluv](https://github.com/qompassai/qluv)
+ [Rose.nvim](https://github.com/qompassai/rose.nvim)
+ [Tuxtype](https://github.com/qompassai/tuxtype)
+ [Unreal](https://github.com/qompassai/unreal)
+
+</details>
+
+<details>
+  <summary style="font-size: 1.4em; font-weight: bold; padding: 15px; background: #667eea; color: white; border-radius: 10px; cursor: pointer; margin: 10px 0;">
+    <strong>🧭⬇️ <b>S</b>outh:</strong> Quality Deployment Solutions
+  </summary>
+  <div style="background: #f8f9fa; padding: 15px; border-radius: 5px; margin-top: 10px; font-family: monospace;">
+
+- [Azimuth](https://github.com/qompassai/Azimuth)
+- [Current](https://github.com/qompassai/current)
+- [Dotfiles](https://github.com/qompassai/dotfiles)
+- [Qonfig](https://github.com/qompassai/qonfig)
+- [Qudaz](https://github.com/qompassai/qudaz)
+- [Qxet](https://github.com/qompassai/qxet)
+- [Rose](https://github.com/qompassai/rose)
+
+</details>
+
+<details>
+  <summary style="font-size: 1.4em; font-weight: bold; padding: 15px; background: #667eea; color: white; border-radius: 10px; cursor: pointer; margin: 10px 0;">
+    <strong>🧭⬅️ <b>W</b>est:</strong> Efficient Server Solutions
+  </summary>
+  <div style="background: #f8f9fa; padding: 15px; border-radius: 5px; margin-top: 10px; font-family: monospace;">
+
+ [beacon](https://github.com/qompassai/beacon)
+ [bunker](https://github.com/qompassai/bunker)
+ [debian](https://github.com/qompassai/debian)
+ [network](https://github.com/qompassai/network)
+ [NUR](https://github.com/qompassai/NUR)
+ [qjp](https://github.com/qompassai/qjp)
+
+  </details>
+
+</details>
+
+<details>
+  <summary style="font-size: 1.4em; font-weight: bold; padding: 15px; background: #667eea; color: white; border-radius: 10px; cursor: pointer; margin: 10px 0;">
+    <strong>- Odyssey: Our Research Development Cycle </strong>
+  </summary>
+  <div style="background: #f8f9fa; padding: 15px; border-radius: 5px; margin-top: 10px; font-family: monospace;">
+
+ [Odyssey](https://github.com/qompassai/Odyssey)
+   [tko](https://github.com/qompassai/tko)
+   [KO](https://github.com/qompassai/KO)
+   [DoNoHarm](https://github.com/qompassai/DoNoHarm)
+   [r4r](https://github.com/qompassai/r4r)
 
 </details>
 
@@ -61,7 +99,7 @@
   <p>Matthew A. Porter<br>
   Former Intelligence Officer<br>
   Educator & Learner<br>
-  DeepTech Founder & CEO</p>
+  Qompass AI Founder & CEO</p>
 </div>
 
 <h3>Publications</h3>

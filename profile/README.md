@@ -13,50 +13,45 @@
   <div style="background: #f8f9fa; padding: 15px; border-radius: 5px; margin-top: 10px; font-family: monospace;">
 
 - **N**orth: NIST-compliant Security Solutions 
-    - [Qompass-Hold](https://github.com/qompassai/qompass-hold)
-    - [Qssl](https://github.com/qompassai/qssl)
-    - [Radar](https://github.com/qompassai/radar)
+  - [Qompass-Hold](https://github.com/qompassai/qompass-hold)
+  - [Qssl](https://github.com/qompassai/qssl)
+  - [Radar](https://github.com/qompassai/radar)
   - [Redteam](https://github.com/qompassai/redteam)
-    - [Tor](https://github.com/qompassai/tor)
-    - [Vongola](https://github.com/qompassai/vongola)
+  - [Tor](https://github.com/qompassai/tor)
+  - [Vongola](https://github.com/qompassai/vongola)
 
 - **E**ast: Empowering AI education 
-    - [blaze-ts.nvim](https://github.com/qompassai/blaze-ts.nvim)
-    - [blaze.nvim](https://github.com/qompassai/blaze.nvim)
-    - [Diver](https://github.com/qompassai/Diver)
-    - [PathFinders](https://github.com/qompassai/PathFinders)
-    - [Qluv](https://github.com/qompassai/qluv)
-    - [Rose.nvim](https://github.com/qompassai/rose.nvim)
-    - [Tuxtype](https://github.com/qompassai/tuxtype)
-    - [Unreal](https://github.com/qompassai/unreal)
+  - [blaze-ts.nvim](https://github.com/qompassai/blaze-ts.nvim)
+  - [blaze.nvim](https://github.com/qompassai/blaze.nvim)
+  - [Diver](https://github.com/qompassai/Diver)
+  - [PathFinders](https://github.com/qompassai/PathFinders)
+  - [Qluv](https://github.com/qompassai/qluv)
+  - [Rose.nvim](https://github.com/qompassai/rose.nvim)
+  - [Tuxtype](https://github.com/qompassai/tuxtype)
+  - [Unreal](https://github.com/qompassai/unreal)
 
 - **S**outh: AI Deployment solutions
-    - [Azimuth](https://github.com/qompassai/Azimuth)
-    - [Current](https://github.com/qompassai/current)
-    - [Dotfiles](https://github.com/qompassai/dotfiles)
-    - [Qonfig](https://github.com/qompassai/qonfig)
-- [Qudaz](https://github.com/qompassai/qudaz)
-    - [Qxet](https://github.com/qompassai/qxet)
-    - [Rose](https://github.com/qompassai/rose)
+  - [Azimuth](https://github.com/qompassai/Azimuth)
+  - [Current](https://github.com/qompassai/current)
+  - [Dotfiles](https://github.com/qompassai/dotfiles)
+  - [Qonfig](https://github.com/qompassai/qonfig)
+  - [Qudaz](https://github.com/qompassai/qudaz)
+  - [Qxet](https://github.com/qompassai/qxet)
+  - [Rose](https://github.com/qompassai/rose)
 - **W**est: AI Server Solutions
-    - [beacon](https://github.com/qompassai/beacon)
-    - [bunker](https://github.com/qompassai/bunker)
-    - [debian](https://github.com/qompassai/debian)
-    - [network](https://github.com/qompassai/network)
-    - [NUR](https://github.com/qompassai/NUR)
-    - [qjp](https://github.com/qompassai/qjp)
+  - [beacon](https://github.com/qompassai/beacon)
+  - [bunker](https://github.com/qompassai/bunker)
+  - [debian](https://github.com/qompassai/debian)
+  - [network](https://github.com/qompassai/network)
+  - [NUR](https://github.com/qompassai/NUR)
+  - [qjp](https://github.com/qompassai/qjp)
 
 * [Research](https://github.com/qompassai/Odyssey)
-        - [KO](https://github.com/qompassai/KO)
-        - [DoNoHarm](https://github.com/qompassai/DoNoHarm)
- - [r4r](https://github.com/qompassai/r4r)
-
-
+  - [KO](https://github.com/qompassai/KO)
+  - [DoNoHarm](https://github.com/qompassai/DoNoHarm)
+  - [r4r](https://github.com/qompassai/r4r)
 
 </details>
-
-## In partnership with OrthoMentor
-![OM Image](OM.jpeg)
 
 <details>
 <summary style="font-size: 1.4em; font-weight: bold; padding: 15px; background: #667eea; color: white; border-radius: 10px; cursor: pointer; margin: 10px 0;"><strong>🧭 About Qompass AI</strong></summary>
@@ -155,7 +150,7 @@
 **Monero (XMR):**
 
 <div align="center">
-  <img src="https://www.github.com/qompassai/svg/assets/monero-qr.svg" alt="Monero QR Code" width="180">
+  <img src="https://raw.githubusercontent.com/qompassai/svg/main/assets/monero-qr.svg" alt="Monero QR Code" width="180">
 </div>
 
 <div style="margin: 10px 0;">
@@ -306,3 +301,6 @@ By offering both open source and commercial licensing options, we strive to crea
 <p id="ref8"><strong>[8]</strong> <a href="https://therecord.media/minneapolis-schools-say-data-breach-affected-100000/">Minneapolis school district says data breach affected more than 100,000 people</a></p>
 </div>
 </details>
+
+## In partnership with OrthoMentor
+![OM Image](OM.jpeg)

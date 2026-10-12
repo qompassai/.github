@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="960" viewBox="0 0 960 960">
+  <defs>
+    <radialGradient id="glowC" cx="18%" cy="8%" r="80%">
+      <stop offset="0%" stop-color="#5B8CFF" stop-opacity="0.20"/>
+      <stop offset="55%" stop-color="#5B8CFF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse">
+      <path d="M80 0H0V80" fill="none" stroke="#1B2A44" stroke-width="1.4" stroke-opacity="0.5"/>
+    </pattern>
+  </defs>
+  <rect width="960" height="960" fill="#04070F"/>
+  <rect width="960" height="960" fill="url(#grid)"/>
+  <rect width="960" height="960" fill="url(#glowC)"/>
+  <!-- the site brand mark, geometry identical to qompass.ai's header svg -->
+  <g transform="translate(96 96) scale(16)">
+    <circle cx="24" cy="24" r="21" fill="none" stroke="#C9A227" stroke-width="1.1"/>
+    <circle cx="24" cy="24" r="13.5" fill="none" stroke="#5B8CFF" stroke-width="0.85" stroke-dasharray="3 4"/>
+    <polygon points="24,4 27,21 24,24 21,21" fill="#5B8CFF"/>
+    <polygon points="44,24 27,27 24,24 27,21" fill="#8CA3C3"/>
+    <polygon points="24,44 21,27 24,24 27,27" fill="#8CA3C3"/>
+    <polygon points="4,24 21,21 24,24 21,27" fill="#8CA3C3"/>
+    <circle cx="24" cy="24" r="2.4" fill="#C9A227"/>
+  </g>
+</svg>

@@ -327,5 +327,5 @@ By offering both open source and commercial licensing options, we strive to crea
 
 ---
 
-<p align="center"><i>© 2026 Qompass AI · Amor Fati Labs LLC</i><br>
+<p align="center"><i>© 2026 Qompass AI. All rights reserved.</i><br>
 <i>Built in the open · Served by vongola · Post-quantum by design</i></p>

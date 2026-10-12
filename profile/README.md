@@ -17,8 +17,6 @@
 
 **Qompass AI** builds the instruments deep tech runs on: post-quantum cryptography benchmarks, agent runtimes, key infrastructure, and the developer tools that tie them together — measured, not marketed. Every claim we publish is a benchmark we ran.
 
-Qompass AI is the trade name of **Amor Fati Labs LLC**, a Washington company founded by Matthew A. Porter — West Point Class of 2011, former Army intelligence officer, and service-disabled veteran.
-
 > A compass does not move the ship — it tells the truth about where the ship is, in any weather.
 
 ---

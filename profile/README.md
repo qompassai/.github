@@ -4,12 +4,12 @@
 
 <p align="center">
   <a href="https://qompass.ai">
-    <img src="banner.png" alt="Qompass AI — Navigation for the quantum age. 47.66° N · 117.43° W — Spokane, fixed." width="100%">
+    <img src="banner.png" alt="Qompass AI — Navigating deep tech's murky waters. 47.66° N · 117.43° W — Spokane, fixed." width="100%">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://qompass.ai"><img src="https://img.shields.io/badge/qompass.ai-Navigation_for_the_quantum_age-0A1220?style=flat-square&logo=safari&logoColor=5B8CFF&labelColor=04070F" alt="qompass.ai"></a>
+  <a href="https://qompass.ai"><img src="https://img.shields.io/badge/qompass.ai-Navigating_deep_tech%27s_murky_waters-0A1220?style=flat-square&logo=safari&logoColor=5B8CFF&labelColor=04070F" alt="qompass.ai"></a>
   <a href="https://orcid.org/0000-0002-0302-4812"><img src="https://img.shields.io/badge/ORCID-0000--0002--0302--4812-0A1220?style=flat-square&logo=orcid&logoColor=A6CE39&labelColor=04070F" alt="ORCID"></a>
   <a href="https://huggingface.co/qompass"><img src="https://img.shields.io/badge/Hugging_Face-qompass-0A1220?style=flat-square&logo=huggingface&logoColor=FFD21E&labelColor=04070F" alt="Hugging Face"></a>
   <a href="https://zenodo.org/communities/qompassai"><img src="https://img.shields.io/badge/Zenodo-Publications-0A1220?style=flat-square&logo=zenodo&logoColor=5B8CFF&labelColor=04070F" alt="Zenodo"></a>

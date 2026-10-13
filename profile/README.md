@@ -167,6 +167,8 @@
 [![Open Collective](https://img.shields.io/badge/Open%20Collective-Support-0A1220?style=flat-square&logo=opencollective&logoColor=7FADF2&labelColor=04070F)](https://opencollective.com/qompassai)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-0A1220?style=flat-square&logo=buy-me-a-coffee&logoColor=FFDD00&labelColor=04070F)](https://www.buymeacoffee.com/phaedrusflow)
 
+[![Donate to Qompass AI on Open Collective](https://opencollective.com/qompassai/donate/button.png?color=white)](https://opencollective.com/qompassai/donate)
+
 <details markdown="1">
 <summary><strong>🔐 Cryptocurrency Donations</strong></summary>
 

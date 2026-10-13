@@ -1,3 +1,4 @@
+<a href="./LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License: Apache 2.0"></a>
 <!----------/qompassai/qompassai/README.md --------------->
 <!-- ----------Qompass AI Github Org Page ---------------->
 <!-- Copyright (C) 2025 Qompass AI, All rights reserved -->
@@ -306,3 +307,7 @@ By offering both open source and commercial licensing options, we strive to crea
 <p id="ref8"><strong>[8]</strong> <a href="https://therecord.media/minneapolis-schools-say-data-breach-affected-100000/">Minneapolis school district says data breach affected more than 100,000 people</a></p>
 </div>
 </details>
+
+## License
+
+This project is licensed under the [Apache License, Version 2.0](./LICENSE).
